@@ -1,9 +1,9 @@
 ![screenshot](https://raw.github.com/jeffThompson/DarkProcessingTheme/master/screenshot.png)
 
-Dark Processing Theme
+Dark Processing Theme (for 1.5x)
 ===================
 
-Wasted much of a day building a dark theme for the Processing IDE - a little easier on the eyes!
+A dark theme for the Processing IDE (a little easier on the eyes!) for Processing 1.5x - for a Processing 2.0 theme, see (this repository)[].
 
 \- \- \-
 
